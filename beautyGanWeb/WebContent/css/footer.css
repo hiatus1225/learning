@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+
+.footer_container{
+	position: absolute;
+    bottom: 2%;
+    width: 98%;
+}
+
+.items_container{
+	text-align: center;
+}
+
+.copyright_style{
+	font-size: 0.1rem;
+}
