@@ -17,6 +17,8 @@ public class BootSpringBootApplication {
   }
 
 }
-<!doctype html>
+
+ 	&lt;!doctype html&gt;
+
 </code>
 </pre>
