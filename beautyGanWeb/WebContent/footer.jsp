@@ -11,7 +11,7 @@
 <body>
 	<div class="footer_container">
 		<div class="items_container">
-			<span>(주)구박이야</span><br>
+			<span class="company">(주)구박이야</span><br>
 			<span class="copyright_style">copyrightⓒ2021.GuBakLeeya.All rights reserved.</span>
 		</div>
 	</div>

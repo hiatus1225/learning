@@ -12,9 +12,9 @@
 <body>
 	<div class="header_container">
 		<span class="logo_span">
-			<img class="logo_image"src="image/logo_back_white.png">
+			<a href="view.jsp"><img class="logo_image"src="image/logo_back_white.png"></a>
 		</span>
-			<div class="title_div"><img class="title_image"src="image/title.png"></div>
+			<div class="title_div"><a href="view.jsp"><img class="title_image"src="image/title.png"></a></div>
 	</div>
 </body>
 </html>
