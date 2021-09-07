@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+.header_container{
+    width: 100%;
+}
+
+.logo_span{
+	left: 40%;
+    top: 11%;
+    position: absolute;
+}
+.logo_image{
+	width: 25%;
+}
+
+.title_div{
+	position: absolute;
+    left: 35%;
+    top: 0%;
+}
+
+.title_image{
+	width: 50%;
+}
